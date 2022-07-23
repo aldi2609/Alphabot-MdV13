@@ -26,9 +26,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Aldi Bot" //namabot kalian
 global.ownername= "Aldi" //nama kalian
-global.myweb ="https://chat.whatsapp.com/CVxGqm1TBnRAyqkH4eYGWr" //bebas asal jan hapus
+global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.instagram = "https://instagram.com/aldii_260" //bebas asal jan hapus
-global.group = "https://chat.whatsapp.com/CVxGqm1TBnRAyqkH4eYGWr" //bebas
+global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas
 global.email = "alldii2609@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
